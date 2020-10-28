@@ -28,6 +28,7 @@ public class PlayerController : MonoBehaviour
 		if (Input.GetKeyDown(KeyCode.Space) || (Application.isEditor && Input.GetKeyDown(KeyCode.O)))
 		{
 			//TODO: Launch a projectile from the player
+			Instantiate(projectilePrefab, transform.position, projectilePrefab.transform.rotation);
 		}
 	}
 }
