@@ -651,6 +651,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 7169122e91e1981469b2b6045ddf7963, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7169122e91e1981469b2b6045ddf7963, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -708,6 +712,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Dog_SaintBernard_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 2996490449487329819, guid: 1af40f647e3bec44ca319d081655a3f0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2996490449487529963, guid: 1af40f647e3bec44ca319d081655a3f0,
         type: 3}
@@ -777,6 +786,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Food_Banana_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 3742742772929572532, guid: 4f9175608a9dd479a8e5853042aae0e3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3745715213652979244, guid: 4f9175608a9dd479a8e5853042aae0e3,
         type: 3}
@@ -902,6 +916,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Animal_Horse_Black
       objectReference: {fileID: 0}
+    - target: {fileID: 7570141814891327090, guid: e18b85c969305440191ea4c6842d062b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e18b85c969305440191ea4c6842d062b, type: 3}
 --- !u!1001 &7698271901275079983
@@ -970,6 +989,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Animal_Cow_Brown
+      objectReference: {fileID: 0}
+    - target: {fileID: 7698271901031121255, guid: b8222394a7e4cf51e8ae24e59b7f0d03,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b8222394a7e4cf51e8ae24e59b7f0d03, type: 3}
