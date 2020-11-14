@@ -3,7 +3,7 @@
 public class SpawnManager : MonoBehaviour
 {
 	public GameObject[] animalPrefabs;
-	const float spawnRangeX = 20;
+	const float spawnRangeX = 10;
 	const float spawnPosZ = 20;
 
 	private const float startDelay = 2;
